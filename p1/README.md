@@ -17,4 +17,4 @@
     $ ./p1 < testcase.in >>t.out
     $ diff t.out testcase.out
     ```
-3. For any difference in output located at line 2n, see for the testcase n.
+3. For any difference in output located at line 2n, see for the testcase n. To ensure your output aligns with `testcase.out`, do put `endl` after the prompts and the outputs.
