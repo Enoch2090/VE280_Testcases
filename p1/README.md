@@ -9,7 +9,7 @@
         }
     }
     ```
-    Note that `RUNTIME` equals to the number of cases（currently 17）.
+    Note that `RUNTIME` equals to the number of cases(currently 17).
 2. Run in shell:
     ```bash
     $ g++ -Wall -Werror -pedantic --std=c++11 -g p1.cpp -o p1
