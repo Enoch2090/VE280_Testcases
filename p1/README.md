@@ -5,8 +5,9 @@
     {
         for (int r = 0; r < RUNTIME; r++)
         {
-            //CODE HERE
+            //CODE BODY HERE
         }
+        return 0;
     }
     ```
     Note that `RUNTIME` equals to the number of cases(currently 17).
