@@ -1,0 +1,1 @@
+Move the folder IndividualTests to your workspace, and compile with the instructions in each file.

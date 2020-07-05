@@ -1,0 +1,1 @@
+Results provided by @lyx. Verified by 6 different implementations of blackjack.
