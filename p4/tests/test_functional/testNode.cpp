@@ -23,5 +23,10 @@ int main()
     cout << n6->getnum() << " " << n6->getstr() << endl;
     cout << n6->leftSubtree()->getnum() << " " << n6->leftSubtree()->getstr() << endl;
     cout << n6->rightSubtree()->getnum() << " " << n6->rightSubtree()->getstr() << endl;
+    delete n1;
+    delete n2;
+    delete n3;
+    delete n4;
+    delete n5;
     delete n6;
 }
