@@ -52,4 +52,10 @@ int main()
     cout << "Contained By: " << b2.contained_by(b1) << endl;
     cout << "Covered By: " << b2.covered_by(b) << endl;
     cout << "Contained By: " << b2.contained_by(b) << endl;
+    BinaryTree b3;
+    cout << b3.allPathSumGreater(0) << endl;
+    cout << b3.allPathSumGreater(5) << endl;
+    cout << b3.depth() << endl;
+    cout << b3.findPath("0") << endl;
+    b3.postorder_num();
 }
